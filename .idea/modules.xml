@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Currency Conversion Service/Currency Conversion Service.iml" filepath="$PROJECT_DIR$/Currency Conversion Service/Currency Conversion Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency Exchange Service/Currency Exchange Service.iml" filepath="$PROJECT_DIR$/Currency Exchange Service/Currency Exchange Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency Gateway Service/Currency Gateway Service.iml" filepath="$PROJECT_DIR$/Currency Gateway Service/Currency Gateway Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency Naming Service/Currency Naming Service.iml" filepath="$PROJECT_DIR$/Currency Naming Service/Currency Naming Service.iml" />
+    </modules>
+  </component>
+</project>
